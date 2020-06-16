@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Estudo de Diagramação</title>
+  </head>
+  <body>
+    <h1>Mac DeMarco</h1>
+    <h2>Canadian - 30 years - Independent artist</h2>
+
+    <div class="generos">
+    <a Indie Rock>Indie Rock</a>
+    <a Indie>Indie</a></h3>
+    <a Psychodelic Rock>Psychodelic Rock</a></h3>
+    <a Jangle Pop>Jangle Pop</a></h3>
+    </div>
+
+<div class="row">
+    <div class="box">
+      <img src="covers/demarco1.jpg"/>
+      <p>Rock and Roll Night Club</p>
+      <p>2012</p>
+      
+    </div>
+    <div class="box">
+      <img src="covers/demarco2.jpg"/>
+      <p>2</p>
+      <p>2012</p>
+      
+    </div>
+    <div class="box">
+      <img src="covers/demarco3.jpg"/>
+      <p>2 Demos</p>
+      <p>2013</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco4.jpg"/>
+      <p>Live and Acoustic: Volume 1</p>
+      <p>2013</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco5.jpg"/>
+      <p>Salad Days</p>
+      <p>2014</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco6.jpg"/>
+      <p>Salad Days Demos</p>
+      <p>2014</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco7.jpg"/>
+      <p>Another One</p>
+      <p>2015</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco8.jpg"/>
+      <p>Another One Demos</p>
+      <p>2016</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco9.jpg"/>
+      <p>This Old Dog</p>
+      <p>2017</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco10.jpg"/>
+      <p>Old Dog Demos</p>
+      <p>2018</p>
+    </div>
+    <div class="box">
+      <img src="covers/demarco11.jpg"/>
+      <p>Here Comes The Cowboy</p>
+      <p>2019</p>
+    </div>
+  </div>
+
+  
+
+  
+  </body>
+</html>
